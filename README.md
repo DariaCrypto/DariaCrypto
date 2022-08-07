@@ -9,8 +9,5 @@
 
 <img align="left" alt="DariaCrypto's GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DariaCrypto&theme=github"/>
 
-<img align="left" alt="DariaCrypto's GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DariaCrypto&theme=github"/>
-
-<img align="left" alt="DariaCrypto's GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DariaCrypto&theme=github"/>
 
 
